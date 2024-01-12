@@ -5,16 +5,11 @@ A stunning and responsive landing page created with HTML,CSS,JS and GSAP to show
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-
-## Demo
-
-Visit the live demo: https://abhishekshrivastav73.github.io/CUberto-Clone/
 
 
 ## Features
